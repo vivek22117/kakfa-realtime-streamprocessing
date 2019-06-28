@@ -11,7 +11,7 @@
 
     <modules>
         <module>word-count</module>
-        <module>rsvpr-ealtime-processing</module>
+        <module>rsvp-realtime-processing</module>
     </modules>
 
     <dependencies>
